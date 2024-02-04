@@ -23,15 +23,16 @@
 
 ## 提供接口 
 
-+ insert (插入数据以及更新数据）
++ insert (插入数据以及更新数据)
 + erase (删除数据)
-+ find（查询数据，返回迭代器）
++ find (查询数据，返回迭代器)
 + count (查询数据，返回数据个数)
-+ display（展示已存数据）
-+ dump_File（数据落盘）
-+ load_File（加载数据）
-+ size（返回数据规模）
++ display (展示已存数据)
++ dump_File (数据落盘)
++ load_File (加载数据)
++ size (返回数据规模)
 + clear (清空数据)
++ [] (查询以及插入数据)
 
 ## 存储引擎数据表现
 
