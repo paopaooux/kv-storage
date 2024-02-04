@@ -77,5 +77,5 @@ mkdir build  && cd build && cmake .. && make         // complie demo main.cpp
 + 可以运行如下脚本测试KV存储引擎的性能
 
 ```shell
-sh stress_test_start.sh 
+bash stress_test_start.sh 
 ```
