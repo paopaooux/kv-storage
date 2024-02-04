@@ -1,0 +1,72 @@
+TEST_COUNT : 100000 NUM_THREADS: 1
+insert elapsed: 0.051879
+update elapsed: 0.0636764
+find elapsed: 0.0572079
+erase elapsed: 0.0589757
+
+TEST_COUNT : 200000 NUM_THREADS: 1
+insert elapsed: 0.138943
+update elapsed: 0.204427
+find elapsed: 0.191262
+erase elapsed: 0.193862
+
+TEST_COUNT : 500000 NUM_THREADS: 1
+insert elapsed: 0.53534
+update elapsed: 0.775214
+find elapsed: 0.706922
+erase elapsed: 0.718549
+
+TEST_COUNT : 1000000 NUM_THREADS: 1
+insert elapsed: 1.53227
+update elapsed: 2.0639
+find elapsed: 1.82243
+erase elapsed: 1.79036
+
+TEST_COUNT : 100000 NUM_THREADS: 1
+insert elapsed: 0.0528978
+update elapsed: 0.0717553
+find elapsed: 0.0616925
+erase elapsed: 0.0604163
+
+TEST_COUNT : 200000 NUM_THREADS: 1
+insert elapsed: 0.137144
+update elapsed: 0.17522
+find elapsed: 0.167772
+erase elapsed: 0.171691
+
+TEST_COUNT : 500000 NUM_THREADS: 1
+insert elapsed: 0.553332
+update elapsed: 0.700298
+find elapsed: 0.661961
+erase elapsed: 0.668368
+
+TEST_COUNT : 1000000 NUM_THREADS: 1
+insert elapsed: 1.40964
+update elapsed: 1.79573
+find elapsed: 1.73108
+erase elapsed: 1.76983
+
+TEST_COUNT : 2000000 NUM_THREADS: 1
+insert elapsed: 3.3963
+update elapsed: 4.14382
+find elapsed: 4.0008
+erase elapsed: 4.00035
+
+TEST_COUNT : 2000000 NUM_THREADS: 2
+insert elapsed: 7.30715
+update elapsed: 8.17073
+find elapsed: 2.06557
+erase elapsed: 7.94836
+
+TEST_COUNT : 2000000 NUM_THREADS: 5
+insert elapsed: 6.92384
+update elapsed: 8.25041
+find elapsed: 1.07572
+erase elapsed: 7.79253
+
+TEST_COUNT : 2000000 NUM_THREADS: 10
+insert elapsed: 4.381
+update elapsed: 5.28443
+find elapsed: 1.03808
+erase elapsed: 5.60646
+
